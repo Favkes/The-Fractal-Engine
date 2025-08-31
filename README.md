@@ -1,8 +1,12 @@
-### The Fractal Engine
+# The Fractal Engine
+
+###
 
 ![Fractal Render Preview](saved-renders/render_0.png)
 
-### About:
+# About:
+
+###
 
 The Fractal Engine is a miniature project aiming at compact and efficient rendering
 of fractals on any machine supporting numpy. <br>
